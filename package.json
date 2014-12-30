@@ -1,0 +1,25 @@
+{
+	"name": "selenium-standalone-jar",
+	"version": "2.44.0",
+	"description": "A jar selenium standalone wrapper",
+	"url": "",
+	"author": {
+		"name": "Jonatan Juárez",
+		"email": "jonatan.ijp@gmail.com"
+	},
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jonamx/selenium-standalone-jar.git"
+	},
+	"keywords": [
+		"selenium",
+    "selenium-jar",
+    "selenium standalone",
+    "selenium jar file"
+	],
+	"license": "MIT",
+	"engines": {
+		"node": ">=0.6"
+	}
+}

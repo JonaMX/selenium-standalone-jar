@@ -1,0 +1,7 @@
+*.swp
+*~
+.DS_Store
+.env
+.idea/*
+.tmp
+.*cache
